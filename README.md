@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/crgalleguillos/crgalleguillos/main/github-banner-cristian-galleguillos.png" alt="Cristián Andrés Galleguillos Vega" width="100%">
+</p>
+
+
 # 👋 Hola, soy Cristián Andrés Galleguillos Vega  
 
 **Biólogo | Máster en Ingeniería en Recursos Naturales | Máster en Data Science & Big Data**
