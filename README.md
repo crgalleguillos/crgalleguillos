@@ -22,7 +22,7 @@ Me apasiona transformar datos en conocimiento accionable y combinar mi formació
 ### Proyectos destacados
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
-| [flights-pricing-portfolio](https://github.com/crgalleguillos/flights-pricing-portfolio) | Predicción de precios de vuelos usando ML (EDA, Feature Engineering, Model Evaluation) | Python, Pandas, Scikit-learn, Seaborn |
+| [prediccion-precios-vuelos](https://github.com/crgalleguillos/prediccion-precios-vuelos) | Predicción de precios de vuelos usando ML (EDA, Feature Engineering, Model Evaluation) | Python, Pandas, Scikit-learn, Seaborn |
 | Próximamente | Bio–Data Science en Python | Python, Biología computacional |
 
 
