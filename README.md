@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Cristián Andrés Galleguillos Vega
 
-**Data Scientist | Machine Learning & Geospatial Data Science**  
+**Data Scientist | Machine Learning, Geospatial Data Science & Business Intelligence**  
 Biologist | MSc in Data Science & Big Data | MSc in Natural Resources Engineering  
 📍 Santiago, Chile
 
@@ -44,19 +44,44 @@ https://github.com/crgalleguillos/chile-night-lights-change
 
 ---
 
-## Core Skills & Technologies
-- **Languages:** Python, SQL  
-- **Data Science:** Pandas, NumPy, Scikit-learn, XGBoost  
-- **Geospatial:** GeoPandas, Rasterio, RioXarray, Fiona  
-- **Visualization:** Matplotlib, Seaborn, Power BI  
-- **Workflow:** Jupyter Notebook, Git & GitHub, Conda  
+### Retail Sales Performance Analysis (Power BI)
+**Business Intelligence project analyzing retail sales performance using Power BI dashboards.**
+-Explores profitability drivers across products, payment channels and geographic regions.
+
+🔗 Repository:  
+https://github.com/crgalleguillos/powerbi-analisis-ventas-rentabilidad
+
+
+## Tools & Technologies
+
+**Languages & Data Science**
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+**Geospatial Analysis**
+- GeoPandas
+- Rasterio
+- RioXarray
+- GIS / Remote Sensing
+
+**Business Intelligence**
+- Power BI
+- DAX
+- Data Modeling (Star Schema)
+
+**Visualization**
+- Matplotlib
+- Seaborn 
 
 ---
 
 ## Next projects
-- **Power BI dashboards** for business and analytical storytelling  
-- Advanced **geospatial analytics** and GIS-focused projects  
-- Integration of socioeconomic and environmental datasets
+
+- **SQL-based analytics project** focused on customer behavior, retention and cohort analysis
+- **GIS analysis project using QGIS** focused on spatial analysis and territorial patterns
+- **PyQGIS spatial analysis project** focused on automation of GIS workflows using Python
 
 ---
 
@@ -75,8 +100,8 @@ Biólogo | Magíster en Data Science & Big Data | Magíster en Ingeniería en Re
 📍 Santiago, Chile
 
 Soy un profesional multidisciplinario con experiencia en análisis de datos, machine learning y ciencia de datos aplicada a problemas reales.  
-Me interesa especialmente el cruce entre **Data Science**, **teledetección**, **recursos naturales** y **análisis territorial**.
+Me interesa especialmente el cruce entre **Data Science**, **Business Intelligence**, **teledetección**, **recursos naturales** y **análisis territorial**.
 
-Actualmente busco oportunidades laborales en **Data Science**, con proyección a especialización en analítica geoespacial y ambiental.
+Actualmente busco oportunidades laborales en **Data Science**, con proyección a especialización a empresas, como a analítica geoespacial y ambiental.
 
 ⭐ Si te interesan mis proyectos, ¡no dudes en dejar una estrella o contactarme!
