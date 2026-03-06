@@ -46,11 +46,12 @@ https://github.com/crgalleguillos/chile-night-lights-change
 
 ### 📊 Retail Sales Performance Analysis (Power BI)
 **Business Intelligence project analyzing retail sales performance using Power BI dashboards.**
--Explores profitability drivers across products, payment channels and geographic regions.
+- Explores profitability drivers across products, payment channels and geographic regions.
 
 🔗 Repository:  
 https://github.com/crgalleguillos/powerbi-analisis-ventas-rentabilidad
 
+---
 
 ## Tools & Technologies
 
