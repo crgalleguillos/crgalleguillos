@@ -61,6 +61,7 @@ https://github.com/crgalleguillos/powerbi-analisis-ventas-rentabilidad
 - NumPy
 - Scikit-learn
 - R Studio
+- SQL
 
 **Geospatial Analysis**
 - GeoPandas
