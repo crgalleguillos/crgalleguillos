@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Cristián Andrés Galleguillos Vega
 
-**Data Scientist | Machine Learning, Geospatial Data Science & Business Intelligence**  
+**Data Scientist | Machine Learning, SQL Analytics, Business Intelligence  & Geospatial Data Science**  
 Biologist | MSc in Data Science & Big Data | MSc in Natural Resources Engineering  
 📍 Santiago, Chile
 
@@ -50,6 +50,19 @@ https://github.com/crgalleguillos/chile-night-lights-change
 
 🔗 Repository:  
 https://github.com/crgalleguillos/powerbi-analisis-ventas-rentabilidad
+
+---
+
+### 🛒 Customer Behavior Analysis in E-commerce (SQL)
+**End-to-end SQL analytics project focused on customer behavior, product performance, and business metrics.**
+
+- Relational data modeling (customers, products, orders, order details)  
+- Advanced SQL queries (JOINs, CTEs, window functions)  
+- Business metrics: revenue, customer value, average ticket  
+- Insight generation focused on decision-making  
+
+🔗 Repository:  
+https://github.com/crgalleguillos/sql-analisis-comportamiento-clientes
 
 ---
 
