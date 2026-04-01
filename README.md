@@ -82,7 +82,6 @@ https://github.com/crgalleguillos/powerbi-analisis-ventas-rentabilidad
 
 ## Next projects
 
-- **SQL-based analytics project** focused on customer behavior, retention and cohort analysis
 - **GIS analysis project using QGIS** focused on spatial analysis and territorial patterns
 - **PyQGIS spatial analysis project** focused on automation of GIS workflows using Python
 
